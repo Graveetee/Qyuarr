@@ -9,7 +9,7 @@ export default function AuthLayout() {
             <Stack.Screen name="pickUserType" />
             <Stack.Screen name="setUpAccountScreen" />
             <Stack.Screen name="createPin" />
-            <Stack.Screen name="confirmPin" />
+            {/* <Stack.Screen name="confirmPin" /> */}
             <Stack.Screen name="verifyIdentity" />
             <Stack.Screen name="generateQR" />
             <Stack.Screen name="accountQRCodeScreen" />
